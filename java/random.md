@@ -1,4 +1,4 @@
-## Math.Random() versus. Random Class
+## Math.Random()  vs  Random Class
 두 가지 방법 모두 난수를 획득한다는 점은 동일하다.
 
 ### Math.Random()
