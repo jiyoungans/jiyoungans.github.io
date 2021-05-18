@@ -16,7 +16,8 @@ int num = (int) ((Math.Random() * 100) + 1); // 1 ~ 100 사이의 난수
 - 객체 생성을 통해 난수를 획득한다.
 - 무작위 정수, boolean, float, long 값을 메소드를 통해 각각 획득할 수 있다.
 - seed : 난수 알고리즘이 처음 시작되는 지점(숫자)를 말한다. 따라서, seed가 같은 Random객체들은 같은 순서대로 난수를 리턴한다.
-- 주요 Methods  
+- 주요 Methods
+  
 |Method명|설명|
 |-------|---|
 |nextInt()|무작위 정수 획득|
@@ -25,7 +26,7 @@ int num = (int) ((Math.Random() * 100) + 1); // 1 ~ 100 사이의 난수
 |nextFloat()|무작위 float 획득|
 |nextLong()|무작위 long 획득|
 |setSeed(n)|난수를 발생시키는 초기숫자인 seed를 설정하는 메소드|
-
+  
 ```java
 Random test = new Random();
 test.setSeed(10);
