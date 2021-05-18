@@ -21,5 +21,4 @@ int copyArr[] = originArr.clone();
 copyArr[2] = 5; // originArr[2]는 그대로 4이다.
 ```
 
-<!-- [Previous Page](./20210515)  -->
-<!-- / [Next Page](./another-page.html) -->
+[Next Page](./random)
