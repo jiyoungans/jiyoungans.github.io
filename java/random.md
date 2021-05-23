@@ -37,5 +37,4 @@ for(int i = 0; i < 2; i++) {
 }
 ```
 
-[Previous Page](./shallowcopy)
-<!-- / [Next Page](./another-page.html) -->
+[Previous Page](./shallowcopy) / [Next Page](./map)
