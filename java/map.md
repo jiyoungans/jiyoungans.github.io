@@ -27,5 +27,4 @@ for(String comp: completion) {
 }
 ```
 
-[Previous Page](./random)
-<!-- / [Next Page](./another-page.html) -->
+[Previous Page](./random) / [Next Page](./arrays)
