@@ -74,5 +74,4 @@ int[] tempArr = new int[]{1,2,3,4,5};
 String arrToStr = Arrays.toString(tempArr); // [1, 2, 3, 4, 5] 가 출력된다.
 ```
 
-[Previous Page](./map) 
-<!-- / [Next Page](./map) -->
+[Previous Page](./map) / [Next Page](./char)
